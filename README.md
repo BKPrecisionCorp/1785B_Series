@@ -1,4 +1,4 @@
-# BK8500B Series DC Electronic Loads
+# BK1785B Series Programmable DC Power Supplies
 These files are for the BK1785B Series Programmable DC Power Supplies
   
 ### Models
